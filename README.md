@@ -5,6 +5,8 @@
 
 Hi guys , kali ini saya akan menulis cara hasil kerja tugas pemograman LAB 2.
 
+## Disini saya akan menggunakan Laptop Kantor
+
 # 1. *MEMBUAT* *DOKUMENT* *HTML*
 
 Berikut saya akan memberikan contoh coding dan hasil HTML nya :
